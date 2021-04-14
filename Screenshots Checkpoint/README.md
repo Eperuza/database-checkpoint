@@ -1,3 +1,3 @@
 #Challenge 1 
 </br>
-![Screenshot](Challenge1.png)
+![Screenshot](Challenge 1.png)
