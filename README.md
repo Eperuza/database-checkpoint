@@ -1,4 +1,4 @@
 # database-checkpoint
-#Challenge 1 
+#Challenge 2 
 </br>
-![Screenshot](Challenge1-.png)
+![Screenshot](Challenge2.png)
